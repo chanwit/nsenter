@@ -1,0 +1,9 @@
+[package]
+name = "nsexec"
+version = "0.1.0"
+authors = ["chanwit@gmail.com"]
+build = "build.rs"
+
+[build-dependencies]
+gcc = "*"
+
